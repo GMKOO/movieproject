@@ -32,8 +32,9 @@
   
 #### 공공 API를 활용해 영화정보 로드 및 최신영화 업데이트 기능 - <a href="https://github.com/GMKOO/movieproject/tree/master/movie/src/main/java/com/movie/web/mhome" >상세보기 - 이동</a>
 - 영화 정보 DB테이블 설계 및 영화정보 포스터,줄거리,러닝타임 등 정보성 데이터 자동 저장 구현
-- 
+- mhome.folder
 
 #### 영화 관리자 페이지 <a href="https://github.com/GMKOO/movieproject/tree/master/movie/src/main/webapp/WEB-INF/views/admin" >상세보기 - 이동</a>
 - API를 활용한 관리자 영화 등록 서포트 시스템 구현
-- 영화 정보 및 등록,수정,삭제 기능 구현 
+- 영화 정보 및 등록,수정,삭제 기능 구현
+- movieupload.jsp,mvdetil.jsp,newmovie.jsp
