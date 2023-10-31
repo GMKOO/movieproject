@@ -38,3 +38,15 @@
 - API를 활용한 관리자 영화 등록 서포트 시스템 구현
 - 영화 정보 및 등록,수정,삭제 기능 구현
 - movieupload.jsp,mvdetil.jsp,newmovie.jsp
+  
+#### 주요 이미지
+
+<img width="1094" alt="메인페이지 정렬기능" src="https://github.com/GMKOO/movieproject/assets/130493398/2e6bd95a-39c6-4fb4-9454-18a91286feb5">
+
+<img width="1415" alt="메인페이지 더보기 5개씩증가" src="https://github.com/GMKOO/movieproject/assets/130493398/d8b83c1b-6049-493c-8f8e-b342f9d040db">
+
+<img width="1908" alt="메인페이지" src="https://github.com/GMKOO/movieproject/assets/130493398/9bc51308-bf80-46d2-810e-3efba88fa65d">
+
+<img width="678" alt="영화신규등록 3차 저장시 다른api로 추가정보 저장" src="https://github.com/GMKOO/movieproject/assets/130493398/f565eb7d-cf82-4f1d-bc64-bad9fa9207fc">
+
+<img width="681" alt="관리자페이지 검색 설명" src="https://github.com/GMKOO/movieproject/assets/130493398/bd441ac2-00c5-4adf-b7ae-ac7b52da0709">
