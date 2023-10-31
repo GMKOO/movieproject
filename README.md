@@ -19,8 +19,7 @@
 
 ### ⚙️ 개발 환경
 - `Java 11`
-- **IDE** : STS 3.x
-- **Framework** : Springboot(2.x)
+- **Framework** : 전자 정부 프레임워크 Springboot(2.x)
 - **Database** : MariaDB
 - **ORM** : Mybatis
 
