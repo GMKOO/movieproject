@@ -39,7 +39,7 @@
 - 영화 정보 및 등록,수정,삭제 기능 구현
 - movieupload.jsp,mvdetil.jsp,newmovie.jsp
   
-#### 주요 이미지
+## ✨ 주요 이미지
 
 <img width="1094" alt="메인페이지 정렬기능" src="https://github.com/GMKOO/movieproject/assets/130493398/2e6bd95a-39c6-4fb4-9454-18a91286feb5">
 <br>
@@ -57,7 +57,7 @@
 <img width="681" alt="관리자페이지 검색 설명" src="https://github.com/GMKOO/movieproject/assets/130493398/bd441ac2-00c5-4adf-b7ae-ac7b52da0709">
 <br>
 
-#### 개인 파트 시연 영상
+## 🎞 개인 파트 시연 영상
 
 
 https://github.com/GMKOO/movieproject/assets/130493398/45e89cc2-f15f-46ae-b5a8-b7bc36628702
