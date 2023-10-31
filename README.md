@@ -56,3 +56,10 @@
 
 <img width="681" alt="관리자페이지 검색 설명" src="https://github.com/GMKOO/movieproject/assets/130493398/bd441ac2-00c5-4adf-b7ae-ac7b52da0709">
 <br>
+
+#### 개인 파트 시연 영상
+
+
+https://github.com/GMKOO/movieproject/assets/130493398/45e89cc2-f15f-46ae-b5a8-b7bc36628702
+
+
